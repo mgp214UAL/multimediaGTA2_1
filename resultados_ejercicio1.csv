@@ -1,0 +1,4 @@
+Cancion,Duracion_Procesada_sec,Raw_Bytes,Raw_Bitrate_kbps,Serial_Bytes,Serial_Bitrate_kbps,Byteplanes2_Bytes,Byteplanes2_Bitrate_kbps,Mejor_Metodo
+./data/FrancoBattiato_LombraDellaLuce.oga,30.0,4203200,1120.85,4163951,1110.39,3154264,841.14,DEFLATE_byteplanes2
+./data/Metallica_Orion.mp3,30.0,3740848,997.56,3589017,957.07,2835077,756.02,DEFLATE_byteplanes2
+./data/VVV_InviernoNuclear.oga,9.99,1823008,1459.38,1816680,1454.31,1390603,1113.22,DEFLATE_byteplanes2
